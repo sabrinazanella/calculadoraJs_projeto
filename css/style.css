@@ -1,0 +1,41 @@
+.calculadora {
+    display: block;
+    margin: 0 auto;
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    border-style: solid;
+    padding: 30px;
+    background-color: black;
+}
+
+.calculadora th input{
+    text-align: right;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.calculadora td input{
+    width: 50px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.bextremidade{
+    background-color: #999797;
+}
+
+.bnumero{
+    background-color: #f7f4f4;
+}
+
+#blaranja{
+    background-color: #eca60e;
+}
+
+
